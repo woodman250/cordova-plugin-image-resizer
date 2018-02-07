@@ -25,6 +25,7 @@
     </config-file>
 
     <source-file src="src/android/ImageResizer.java" target-dir="src/info/protonet/imageresizer" />
+	<source-file src="src/android/FileHelper.java" target-dir="src/info/protonet/imageresizer" />
   </platform>
 
   <platform name="ios">
